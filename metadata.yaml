@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '42379'
     url: http://www.gutenberg.org/2009/agents/42379
 description: 'See "Fourteenth Century Verse & Prose" by Kenneth Sisam, ebook #43736.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43737#A-Middle-English-VocabularyDesigned-for-use-with-SISAM-S-Fourteenth-Century-Verse--amp--Prose
 gutenberg_issued: '2013-09-15'
 gutenberg_type: Text
 identifiers:
