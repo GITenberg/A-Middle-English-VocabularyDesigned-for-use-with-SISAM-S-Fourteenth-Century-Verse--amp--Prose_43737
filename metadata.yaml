@@ -1,0 +1,31 @@
+_repo: A-Middle-English-VocabularyDesigned-for-use-with-SISAM-S-Fourteenth-Century-Verse--amp--Prose_43737
+_version: 0.1.0
+alternative_title: A Middle English Vocabulary, Designed for use with Sisam's 14th
+  Century Verse and Prose
+covers:
+- cover_type: archival
+  image_path: 43737-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tolkien, J. R. R. (John Ronald Reuel)
+    alias: Tolkien, John Ronald Reuel
+    birthdate: 1892
+    deathdate: 1973
+    gutenberg_agent_id: '42379'
+    url: http://www.gutenberg.org/2009/agents/42379
+description: 'See "Fourteenth Century Verse & Prose" by Kenneth Sisam, ebook #43736.'
+gutenberg_issued: '2013-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43737'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Middle English, 1100-1500 -- Glossaries, vocabularies,
+  etc.'
+title: A Middle English Vocabulary, Designed for use with Sisam's Fourteenth Century
+  Verse & Prose
+url: http://www.gutenberg.org/ebooks/43737
